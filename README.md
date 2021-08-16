@@ -15,4 +15,5 @@
 
 
 ### Tests
-Unit Tests: npm run test
+*  Unit Tests:
+ npm run test
